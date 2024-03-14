@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b8b4bb2-e437-49aa-8a5e-68e6df358a67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/KD5_cikli.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD5_cikli/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/KD6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../KD6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/LD4_KD_uzdevums.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_KD_uzdevums/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/LD4_mistake_catching.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD4_mistake_catching/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/LD5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/LD6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/LD7_example.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../LD7_example/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/Lab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Lab1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Number guessing game/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Number guessing game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Number guessing game/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Number guessing game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Number guessing game/Number guessing game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Number guessing game/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/Lodes_trajektorija_un_merkis_2papuzd.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Papildus_uzd2_lode/Lodes_trajektorija_un_merkis_2papuzd/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/Task1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Task1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../arrays_nodarbiba/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../arrays_nodarbiba/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../arrays_nodarbiba/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../arrays_nodarbiba/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../arrays_nodarbiba/arrays_nodarbiba.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../arrays_nodarbiba/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/break_and_continue_operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../break_and_continue_operators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/lecture2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lecture2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../operators/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/pow_and_devision_cycle_task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../pow_and_devision_cycle_task/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../two_in_pow_sum/two_in_pow_sum.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2dNKXVufnacRlYbxR1puHvCaJ1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/milos/Desktop/imp/Uni/Java/2semestris/lekcija4_II/LD5_teksta_formatesana&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LD5_teksta_formatesana" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LD5_teksta_formatesana" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b8b4bb2-e437-49aa-8a5e-68e6df358a67" name="Changes" comment="" />
+      <created>1709843136163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709843136163</updated>
+    </task>
+    <servers />
+  </component>
+</project>

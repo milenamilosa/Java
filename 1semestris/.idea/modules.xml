@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KD5_cikli/KD5_cikli.iml" filepath="$PROJECT_DIR$/KD5_cikli/KD5_cikli.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KD6/KD6.iml" filepath="$PROJECT_DIR$/KD6/KD6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LD4_KD_uzdevums/LD4_KD_uzdevums.iml" filepath="$PROJECT_DIR$/LD4_KD_uzdevums/LD4_KD_uzdevums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LD4_mistake_catching/LD4_mistake_catching.iml" filepath="$PROJECT_DIR$/LD4_mistake_catching/LD4_mistake_catching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LD5/LD5.iml" filepath="$PROJECT_DIR$/LD5/LD5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LD6/LD6.iml" filepath="$PROJECT_DIR$/LD6/LD6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LD7_example/LD7_example.iml" filepath="$PROJECT_DIR$/LD7_example/LD7_example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number guessing game/Number guessing game.iml" filepath="$PROJECT_DIR$/Number guessing game/Number guessing game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Papildus_uzd2_lode/Papildus_uzd2_lode.iml" filepath="$PROJECT_DIR$/Papildus_uzd2_lode/Papildus_uzd2_lode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task1/Task1.iml" filepath="$PROJECT_DIR$/Task1/Task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays_nodarbiba/arrays_nodarbiba.iml" filepath="$PROJECT_DIR$/arrays_nodarbiba/arrays_nodarbiba.iml" />
+      <module fileurl="file://$PROJECT_DIR$/break_and_continue_operators/break_and_continue_operators.iml" filepath="$PROJECT_DIR$/break_and_continue_operators/break_and_continue_operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture2/lecture2.iml" filepath="$PROJECT_DIR$/lecture2/lecture2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/operators/operators.iml" filepath="$PROJECT_DIR$/operators/operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pow_and_devision_cycle_task/pow_and_devision_cycle_task.iml" filepath="$PROJECT_DIR$/pow_and_devision_cycle_task/pow_and_devision_cycle_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two_in_pow_sum/two_in_pow_sum.iml" filepath="$PROJECT_DIR$/two_in_pow_sum/two_in_pow_sum.iml" />
+    </modules>
+  </component>
+</project>
