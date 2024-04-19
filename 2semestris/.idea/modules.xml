@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2semestris.iml" filepath="$PROJECT_DIR$/.idea/2semestris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija3_II/LD3_bogdan/LD3_bogdan.iml" filepath="$PROJECT_DIR$/lekcija3_II/LD3_bogdan/LD3_bogdan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija3_II/LD4_3meginajums/LD4_3meginajums.iml" filepath="$PROJECT_DIR$/lekcija3_II/LD4_3meginajums/LD4_3meginajums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija3_II/LD4_nolaisit_teksta_faila_saturu/LD4_nolaisit_teksta_faila_saturu.iml" filepath="$PROJECT_DIR$/lekcija3_II/LD4_nolaisit_teksta_faila_saturu/LD4_nolaisit_teksta_faila_saturu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija2_II/LD4_otraismeginajums/LD4_otraismeginajums.iml" filepath="$PROJECT_DIR$/lekcija2_II/LD4_otraismeginajums/LD4_otraismeginajums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija4_II/LD5_teksta_formatesana/LD5_teksta_formatesana.iml" filepath="$PROJECT_DIR$/lekcija4_II/LD5_teksta_formatesana/LD5_teksta_formatesana.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija1_II/lekcija1_II.iml" filepath="$PROJECT_DIR$/lekcija1_II/lekcija1_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija4_II/lekcija4_II.iml" filepath="$PROJECT_DIR$/lekcija4_II/lekcija4_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija6_II/lekcija6_II.iml" filepath="$PROJECT_DIR$/lekcija6_II/lekcija6_II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lekcija2_II/taisnstura_laukumi_perimetri/taisnstura_laukumi_perimetri.iml" filepath="$PROJECT_DIR$/lekcija2_II/taisnstura_laukumi_perimetri/taisnstura_laukumi_perimetri.iml" />
+    </modules>
+  </component>
+</project>
